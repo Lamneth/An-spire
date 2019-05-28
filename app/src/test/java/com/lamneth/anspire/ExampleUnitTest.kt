@@ -1,4 +1,4 @@
-package com.lamneth.an_spire
+package com.lamneth.anspire
 
 import org.junit.Test
 

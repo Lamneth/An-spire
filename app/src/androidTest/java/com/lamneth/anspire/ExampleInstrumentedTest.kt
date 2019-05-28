@@ -1,4 +1,4 @@
-package com.lamneth.an_spire
+package com.lamneth.anspire
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
